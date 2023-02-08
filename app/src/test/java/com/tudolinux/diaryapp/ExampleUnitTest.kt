@@ -1,4 +1,4 @@
-package com.example.diaryapp
+package com.tudolinux.diaryapp
 
 import org.junit.Test
 

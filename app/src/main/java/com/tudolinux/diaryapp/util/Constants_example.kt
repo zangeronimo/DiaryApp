@@ -1,4 +1,4 @@
-package com.example.diaryapp.util
+package com.tudolinux.diaryapp.util
 
 object Constants_example {
 

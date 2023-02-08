@@ -1,6 +1,6 @@
-package com.example.diaryapp.navigation
+package com.tudolinux.diaryapp.navigation
 
-import com.example.diaryapp.util.Constants.WRITE_SCREEN_ARGUMENT_KEY
+import com.tudolinux.diaryapp.util.Constants.WRITE_SCREEN_ARGUMENT_KEY
 
 sealed class Screen(val route: String) {
     object Authentication : Screen(route = "authentication_screen")

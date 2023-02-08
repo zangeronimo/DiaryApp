@@ -1,4 +1,4 @@
-package com.example.diaryapp.presentation.screens.auth
+package com.tudolinux.diaryapp.presentation.screens.auth
 
 import android.annotation.SuppressLint
 import android.util.Log
@@ -11,7 +11,7 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.ui.Modifier
-import com.example.diaryapp.util.Constants.CLIENT_ID
+import com.tudolinux.diaryapp.util.Constants.CLIENT_ID
 import com.stevdzasan.messagebar.ContentWithMessageBar
 import com.stevdzasan.messagebar.MessageBarState
 import com.stevdzasan.onetap.OneTapSignInState

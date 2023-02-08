@@ -1,4 +1,4 @@
-package com.example.diaryapp.ui.theme
+package com.tudolinux.diaryapp.ui.theme
 
 import android.app.Activity
 import android.os.Build
